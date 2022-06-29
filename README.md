@@ -22,7 +22,3 @@ in Medical Paper Abstracts". This paper utilized Bi-LSTM and positional embeddin
  
  -> This is a main notebook of this project. Through this project I explore this dataset and perform various Exploratory Data Analysis. In the same notebook I finetune bert and save the model.
  
- 2. Skimlit
- 
- -> Deployment of model using django.
- 
